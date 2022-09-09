@@ -4,7 +4,8 @@ class Addition
    { 
      int a=10;
      int b=5;
-     int c=a+b;
-     System.out.println("sum of a and b ="+" "+c);
+     int c=3;
+     int d=a+b+c;
+     System.out.println("sum of a,b and c ="+" "+d);
    }
 }
